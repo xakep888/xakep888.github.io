@@ -138,3 +138,38 @@ color:#777777;
 .works img:last-child{
 	float:right;
 }
+
+.info {
+	font-size:40px;
+	font-weight: bold;
+	text-align:center;
+	margin:0;
+}
+.images_info1{
+	text-align:center;
+}
+
+.paragraf{
+	color:#acacac;
+}
+
+.images_info{
+	text-align: center;
+	margin-top:5%;
+line-height: 130px
+
+}
+.abzac31{
+	text-align:left;
+	padding-left: 320px;
+	margin-top: -20%;
+}
+.abzac42{
+	text-align:right;
+	padding-right:320px;
+	margin-top:-20%;
+}
+#about_us{
+	padding-bottom: 120px;
+	background:white;
+}
